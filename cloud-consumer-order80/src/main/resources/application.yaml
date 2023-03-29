@@ -1,0 +1,38 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-payment-consumer
+  sleuth:
+    web:
+      client:
+        enabled: true
+    sampler:
+      probability: 1.0 # 采样比例为: 0.1(即10%),设置的值介于0.0到1.0之间，1.0则表示全部采集。
+  # zipkin 配置
+  zipkin:
+    base-url: http://localhost:9411
+    # 关闭服务发现，否则Spring Cloud会把zipkin的url当做服务名称
+    discoveryClientEnabled: false
+    sender:
+      type: web  # 设置使用http的方式传输数据
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/clouddata?useSSL=false
+    username: root
+    password: zxy902
+    driver-class-name: org.gjt.mm.mysql.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: claaspth:com.atguigu.springcloud.entities
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka

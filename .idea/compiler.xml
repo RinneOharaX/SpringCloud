@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-consumer-zookeeper-order80" />
+        <module name="cloud-consumer-hystrix-openfeign-order80" />
+        <module name="cloud-api-common" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-nacos-config-3333" />
+        <module name="cloud-getway-getway9527" />
+        <module name="seata-order-service2001" />
+        <module name="cloud-provider-pament8001" />
+        <module name="cloud-consum-openfeign-order80" />
+        <module name="cloudalibaba-provider-Payment9002" />
+        <module name="cloudalibaba-provider-Payment9001" />
+        <module name="cloud-provider-zookeeper-payment8003" />
+        <module name="cloud-config-center-3344" />
+        <module name="cloud-eureka-server7001 (1)" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="seata-account-service2003" />
+        <module name="cloud-provider-pament8001 (1)" />
+        <module name="seata-storage-service2002" />
+        <module name="cloud-consumer-order80" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloudalibaba-sentinel-service8401" />
+        <module name="cloud-config-client-3355" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-center-3355" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

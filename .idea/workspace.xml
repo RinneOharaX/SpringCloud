@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0728cb8-22d6-4f59-8b53-873f18c8bb1a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MliqcIW1lxBe9yRhKzbSeZqoq3" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_directory_selection": "D:/IntelliJ IDEA 2022.1.2/SpringCloud/cloudalibaba-provider-Payment9001/src/main/java",
+    "last_opened_file_path": "D:/IntelliJ IDEA 2022.1.2/SpringCloud/seata-order-service2001/src/main/java/com/atguigu/springcloud",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.097751714",
+    "project.structure.side.proportion": "0.21451788",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "9bf3fe2bffd2094736dad5b3047089c5"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2022.1.2\SpringCloud\seata-order-service2001\src\main\java\com\atguigu\springcloud" />
+      <recent name="D:\IntelliJ IDEA 2022.1.2\SpringCloud\seata-account-service2003\src\main\resources" />
+      <recent name="D:\IntelliJ IDEA 2022.1.2\SpringCloud\seata-storage-service2002\src\main\resources" />
+      <recent name="D:\IntelliJ IDEA 2022.1.2\SpringCloud\seata-order-service2001\src\main\resources" />
+      <recent name="D:\IntelliJ IDEA 2022.1.2\SpringCloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2022.1.2\SpringCloud\cloudalibaba-provider-Payment9001\src\main\resources\Mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Seata2001">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosPayment9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-Payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.NacosPayment9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seata2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Seata2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seata2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Seata2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seata2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Seata2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentinelService8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.SentinelService8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Seata2001" />
+      <item itemvalue="Spring Boot.Seata2002" />
+      <item itemvalue="Spring Boot.Seata2003" />
+      <item itemvalue="Spring Boot.SentinelService8401" />
+      <item itemvalue="Spring Boot.NacosPayment9001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Seata2003" />
+        <item itemvalue="Spring Boot.Seata2001" />
+        <item itemvalue="Spring Boot.Seata2002" />
+        <item itemvalue="Spring Boot.SentinelService8401" />
+        <item itemvalue="Spring Boot.NacosPayment9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0728cb8-22d6-4f59-8b53-873f18c8bb1a" name="Changes" comment="" />
+      <created>1678348770636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678348770636</updated>
+      <workItem from="1678348772642" duration="742000" />
+      <workItem from="1678349533070" duration="4153000" />
+      <workItem from="1678426258220" duration="1195000" />
+      <workItem from="1678428026335" duration="12214000" />
+      <workItem from="1678513381280" duration="9269000" />
+      <workItem from="1678603556288" duration="6654000" />
+      <workItem from="1678945631298" duration="5289000" />
+      <workItem from="1679037801488" duration="3309000" />
+      <workItem from="1679068472240" duration="6631000" />
+      <workItem from="1679118671554" duration="8103000" />
+      <workItem from="1679160598108" duration="1053000" />
+      <workItem from="1679310148480" duration="8982000" />
+      <workItem from="1679372485437" duration="1793000" />
+      <workItem from="1679468029501" duration="14401000" />
+      <workItem from="1679491593332" duration="2189000" />
+      <workItem from="1679551503364" duration="4631000" />
+      <workItem from="1679637390753" duration="10981000" />
+      <workItem from="1679675038042" duration="5974000" />
+      <workItem from="1679758567731" duration="878000" />
+      <workItem from="1679759472485" duration="340000" />
+      <workItem from="1679760462206" duration="2050000" />
+      <workItem from="1679898586955" duration="7891000" />
+      <workItem from="1679980348501" duration="8790000" />
+      <workItem from="1679995881711" duration="15574000" />
+      <workItem from="1680018922719" duration="5842000" />
+      <workItem from="1680063584594" duration="5581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../path/to/local/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.class</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-hystrix-openfeign-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-config-center-3355/src/main/java/com/atguigu/springcloud/controller/ConfigController.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-pament8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-pament8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/serviceimp/StorageServiceImp.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>file://$PROJECT_DIR$/cloud-provider-zookeeper-payment8003/src/main/java/com/atguigu/springcloud/controller/PaymentController.java</url>
+          <line>23</line>
+          <properties field="PORT" class="com.atguigu.springcloud.controller.PaymentController" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.util.concurrent.TimeoutException" package="java.util.concurrent" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/cloudalibaba-provider-Payment9001/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java</url>
+          <line>15</line>
+          <properties class="com.atguigu.springcloud.dao.PaymentDao" method="addPayment">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.atuguigu.springcloud.entities.Payment" memberName="id" />
+        <PinnedItemInfo parentTag="com.atuguigu.springcloud.entities.Payment" memberName="serial" />
+        <PinnedItemInfo parentTag="com.atguigu.springcloud.serviceimp.PaymentSerivceImp" memberName="paymentDao" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+server:
+  port: 3333
+
+spring:
+  application:
+    name: cloud-nacos-config
+  profiles:
+    active: test
+  datasource:
+    url: jdbc:mysql://localhost:3306/clouddata?useSSL=false
+    username: root
+    password: zxy902
+    driver-class-name: org.gjt.mm.mysql.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+        group: TEST_GROUP
+        namespace: 5b9fad3d-b6ae-4043-9c96-d5ae8db6b8f5
+

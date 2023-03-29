@@ -1,0 +1,16 @@
+server:
+  port: 83
+spring:
+  application:
+    name: cloudalibaba-consumer-nacos-order
+  datasource:
+    url: jdbc:mysql://localhost:3306/clouddata?useSSL=false
+    username: root
+    password: zxy902
+    driver-class-name: org.gjt.mm.mysql.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
